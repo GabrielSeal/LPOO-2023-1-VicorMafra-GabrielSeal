@@ -1,3 +1,5 @@
+
+
 public class Campo {
     private char disco1;
 

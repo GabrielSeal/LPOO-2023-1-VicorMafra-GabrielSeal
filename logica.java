@@ -4,7 +4,7 @@ import java.util.Random;//será implementado para a escolha do jogador que inici
 public class Logica {
     public static void main (string[] args){
         Quadro[][] FOURIL =new Quadro [7][7];
-        char corAtual = '' //definir qual cor vai ter a vez
+        char corAtual = '';//definir qual cor vai ter a vez
                            //de jogar, ex:azul ou amarelo, ainda não foi implementado
         string vitoria= " "; //será implementado depois.
         Boolean game = true;
